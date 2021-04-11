@@ -15,7 +15,10 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
-	color: gray;
+}
+
+.wrapper h1 h2 {
+  color: gray;
 }
 
 /* Write all remaining styles here */
