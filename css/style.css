@@ -31,3 +31,7 @@ body {
 .image-div img {
   border: 3px solid gray;
 }
+
+.image-div img:hover {
+  border: 3px solid black;
+}
