@@ -17,8 +17,13 @@ body {
 	padding: 0 45px 20px;
 }
 
+
+/* Write all remaining styles here */
+
 .wrapper h1, .wrapper h2 {
   color: gray;
 }
 
-/* Write all remaining styles here */
+.image-div {
+  border: 3px solid gray;
+}
